@@ -1,0 +1,9 @@
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadio\AppRadio\bin\Debug\AppRadio.exe.config
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadio\AppRadio\bin\Debug\AppRadio.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadio\AppRadio\bin\Debug\AppRadio.pdb
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadio\AppRadio\obj\Debug\AppRadio.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadio\AppRadio\obj\Debug\AppRadio.Form1.resources
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadio\AppRadio\obj\Debug\AppRadio.Properties.Resources.resources
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadio\AppRadio\obj\Debug\AppRadio.csproj.GenerateResource.Cache
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadio\AppRadio\obj\Debug\AppRadio.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadio\AppRadio\obj\Debug\AppRadio.pdb

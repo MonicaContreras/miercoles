@@ -1,0 +1,9 @@
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppVerdeyAzul\AppVerdeyAzul\bin\Debug\AppVerdeyAzul.exe.config
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppVerdeyAzul\AppVerdeyAzul\bin\Debug\AppVerdeyAzul.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppVerdeyAzul\AppVerdeyAzul\bin\Debug\AppVerdeyAzul.pdb
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppVerdeyAzul\AppVerdeyAzul\obj\Debug\AppVerdeyAzul.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppVerdeyAzul\AppVerdeyAzul\obj\Debug\AppVerdeyAzul.Form1.resources
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppVerdeyAzul\AppVerdeyAzul\obj\Debug\AppVerdeyAzul.Properties.Resources.resources
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppVerdeyAzul\AppVerdeyAzul\obj\Debug\AppVerdeyAzul.csproj.GenerateResource.Cache
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppVerdeyAzul\AppVerdeyAzul\obj\Debug\AppVerdeyAzul.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppVerdeyAzul\AppVerdeyAzul\obj\Debug\AppVerdeyAzul.pdb

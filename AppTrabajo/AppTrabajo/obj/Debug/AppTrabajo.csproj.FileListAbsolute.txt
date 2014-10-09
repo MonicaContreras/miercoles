@@ -1,0 +1,9 @@
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppTrabajo\AppTrabajo\bin\Debug\AppTrabajo.exe.config
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppTrabajo\AppTrabajo\bin\Debug\AppTrabajo.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppTrabajo\AppTrabajo\bin\Debug\AppTrabajo.pdb
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppTrabajo\AppTrabajo\obj\Debug\AppTrabajo.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppTrabajo\AppTrabajo\obj\Debug\AppTrabajo.Form1.resources
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppTrabajo\AppTrabajo\obj\Debug\AppTrabajo.Properties.Resources.resources
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppTrabajo\AppTrabajo\obj\Debug\AppTrabajo.csproj.GenerateResource.Cache
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppTrabajo\AppTrabajo\obj\Debug\AppTrabajo.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppTrabajo\AppTrabajo\obj\Debug\AppTrabajo.pdb

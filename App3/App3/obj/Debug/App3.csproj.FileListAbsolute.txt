@@ -1,0 +1,8 @@
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\App3\App3\bin\Debug\App3.exe.config
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\App3\App3\bin\Debug\App3.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\App3\App3\bin\Debug\App3.pdb
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\App3\App3\obj\Debug\App3.Form1.resources
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\App3\App3\obj\Debug\App3.Properties.Resources.resources
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\App3\App3\obj\Debug\App3.csproj.GenerateResource.Cache
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\App3\App3\obj\Debug\App3.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\App3\App3\obj\Debug\App3.pdb

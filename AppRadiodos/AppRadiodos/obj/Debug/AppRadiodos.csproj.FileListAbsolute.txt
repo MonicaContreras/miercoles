@@ -1,0 +1,8 @@
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadiodos\AppRadiodos\bin\Debug\AppRadiodos.exe.config
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadiodos\AppRadiodos\bin\Debug\AppRadiodos.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadiodos\AppRadiodos\bin\Debug\AppRadiodos.pdb
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadiodos\AppRadiodos\obj\Debug\AppRadiodos.Form1.resources
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadiodos\AppRadiodos\obj\Debug\AppRadiodos.Properties.Resources.resources
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadiodos\AppRadiodos\obj\Debug\AppRadiodos.csproj.GenerateResource.Cache
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadiodos\AppRadiodos\obj\Debug\AppRadiodos.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppRadiodos\AppRadiodos\obj\Debug\AppRadiodos.pdb
